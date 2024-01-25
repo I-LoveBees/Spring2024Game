@@ -72,3 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 MatchGame/Temp/
+
+MatchGame/Assets/TextMesh Pro/
