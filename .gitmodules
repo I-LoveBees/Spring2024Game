@@ -1,3 +1,5 @@
 [submodule "MatchGame\\Assets\\Scripts"]
 	path = MatchGame\\Assets\\Scripts
 	url = https://github.com/I-LoveBees/Scripts
+[submodule "MatchGame/Assets/Scripts"]
+	url = https://github.com/I-LoveBees/Scripts
