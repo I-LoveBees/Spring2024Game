@@ -46,19 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 4241076482109025451}
-        m_TargetAssemblyTypeName: CoroutineBehavior, Assembly-CSharp
-        m_MethodName: StartRepeatUnilFalse
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   startCountEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -95,6 +83,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  counterNum: {fileID: 0}
+      - m_Target: {fileID: 11400000, guid: 5294c739c31963e4d9003d02adca4015, type: 2}
+        m_TargetAssemblyTypeName: Instancer, Assembly-CSharp
+        m_MethodName: CreateInstance
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  counterNum: {fileID: 11400000, guid: 7720e1aa6b7f00c44a49a6181d19fc76, type: 2}
   canRun: 0
   seconds: 1
