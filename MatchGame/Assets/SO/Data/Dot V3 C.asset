@@ -9,10 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c22a3286254e9b49aa2bb227d32143d, type: 3}
-  m_Name: HighScore
+  m_Script: {fileID: 11500000, guid: 7fbf2487419f8474496092e2eff7e1f2, type: 3}
+  m_Name: Dot V3 C
   m_EditorClassIdentifier: 
-  value: 90
-  disableEvent:
-    m_PersistentCalls:
-      m_Calls: []
+  value: {x: 0, y: -1, z: 0}
